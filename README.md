@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A backend Developer from Essex, England</h3>
 
-- 🔭 I’m currently working on [Harmony](https://weareharmony.net)
+- 🔭 I’m currently working on [Honky](https://honky.tools)
 
 - 🌱 I’m currently learning **React.JS**
 
