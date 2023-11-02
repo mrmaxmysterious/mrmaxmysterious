@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Nothing at the moment...**
 
-- 👨‍💻 All of my projects are available at [https://itsdevmax.xyz](https://itsdevmax.xyz)
+- 👨‍💻 All of my projects are available at [my portfolio](https://maxhenson.co.uk)
 
 - 💬 Ask me about **Anything!**
 
