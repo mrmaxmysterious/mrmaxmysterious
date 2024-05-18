@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Relatio](https://relatio.cc)
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
